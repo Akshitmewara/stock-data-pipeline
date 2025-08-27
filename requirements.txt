@@ -1,0 +1,9 @@
+kafka-python
+pyspark
+snowflake-connector-python
+streamlit
+pandas
+pyodbc
+plotly
+requests
+streamlit_autorefresh
