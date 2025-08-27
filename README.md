@@ -8,7 +8,7 @@ This project demonstrates a real-time stock data processing pipeline using Kafka
 
 ### 1. Clone the repository
 
-git clone https://github.com/Akshitmewara/stock-data-pipeline.git 
+git clone https://github.com/Akshitmewara/stock-data-pipeline
 cd stock-data-pipeline
 
 
